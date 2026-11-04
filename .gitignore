@@ -1,0 +1,11 @@
+.env
+*.pem
+*.key
+*.token
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.csv
+*.parquet
+data/
